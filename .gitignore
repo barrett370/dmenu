@@ -1,5 +1,7 @@
-st
 *.o
-pkg/
 *.pkg.tar.xz
+*.rej
+*.orig
 patches
+pkg/
+dmenu
